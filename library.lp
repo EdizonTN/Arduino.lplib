@@ -1,0 +1,10 @@
+(librepcb_library 5030dde3-fb4c-49ba-99bc-3021def81c12
+ (name "Arduino")
+ (description "This is an unofficial testing LibrePCB library. Arduino modules.")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2020-11-23T19:00:36Z)
+ (deprecated false)
+ (url "https://github.com/EdizonTN/Arduino.lplib")
+)
