@@ -13,7 +13,7 @@ see [wiki](../../wiki/)
 
 
 ## LibrePCB "URL to ZIP file"
-https://github.com/EdizonTN/Arduino.lplib/archive/main.zip
+https://github.com/EdizonTN/Arduino.lplib/archive/refs/heads/main.zip
 
 
 ## License
